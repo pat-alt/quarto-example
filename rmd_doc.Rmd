@@ -1,0 +1,13 @@
+---
+title: "From .Rmd"
+output: github_document
+bibliography: bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+@upadhyay2021towards is great paper.
+
+# References
