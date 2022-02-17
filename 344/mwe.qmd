@@ -1,0 +1,15 @@
+---
+title: Hello, Quarto
+date: "2012-04-06"
+categories: 
+  - Matplotlib
+  - Coordinates
+format: hugo
+---
+
+This works `$\mathbf{H}({\mathbf{\hat{w}})$`: $\mathbf{H}({\mathbf{\hat{w}})$.
+
+This `$\mathbf{H}(\hat{\mathbf{w}})$` yields $\mathbf{H}(\hat{\mathbf{w}})$ and throws the following error:
+
+```
+```
