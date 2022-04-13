@@ -1,0 +1,13 @@
+---
+title: "My paper"
+author: me
+format: pdf
+---
+
+```{.include}
+sections/abstract.qmd
+```
+
+```{.include}
+sections/introduction.qmd
+```

@@ -1,0 +1,9 @@
+project:
+  title: "666"
+filters:
+  - include-files.lua
+  - quarto
+  - abstract-to-meta.lua
+
+
+
