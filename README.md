@@ -4,3 +4,4 @@ A repo to for minimum working examples related to issues I have opened on [GitHu
 
 - Issue [#293](https://github.com/quarto-dev/quarto-cli/issues/293) (closed)
 - Issue [#346](https://github.com/quarto-dev/quarto-cli/issues/346)
+- Issue [#615](https://github.com/quarto-dev/quarto-cli/issues/615)
