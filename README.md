@@ -6,6 +6,6 @@ A repo to for minimum working examples related to issues opened on [GitHub](http
 - Issue [#346](https://github.com/quarto-dev/quarto-cli/issues/346)
 - Issue [#615](https://github.com/quarto-dev/quarto-cli/issues/615)
 - Issue [#617](https://github.com/quarto-dev/quarto-cli/issues/617)
-- Issue [#XXX]
+- Issue [#627](https://github.com/quarto-dev/quarto-cli/issues/627)
 
 
