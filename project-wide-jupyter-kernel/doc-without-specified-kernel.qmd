@@ -1,0 +1,7 @@
+---
+title: "doc-without-specified-kernel"
+---
+
+```{julia}
+versioninfo()
+```

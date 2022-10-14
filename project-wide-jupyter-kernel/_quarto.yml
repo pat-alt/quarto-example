@@ -1,0 +1,8 @@
+project:
+  title: "project-wide-jupyter-kernel"
+format:
+  gfm: default
+jupyter: julia-1.8
+
+
+
