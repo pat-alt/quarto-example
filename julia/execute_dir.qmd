@@ -1,0 +1,23 @@
+---
+title: "Plots Demo"
+author: "Norah Jones"
+date: "5/22/2021"
+format:
+  commonmark: default
+engine: julia
+julia:
+  exeflags: ["--project=../"]
+---
+
+The working directory is:
+
+```{julia}
+
+pwd()
+```
+
+
+
+
+
+
