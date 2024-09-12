@@ -1,7 +1,11 @@
-# Plots Demo
-Norah Jones
-2021-05-22
+# Execution directory
+
 
 The working directory is:
+
+``` julia
+
+pwd()
+```
 
     "/Users/paltmeyer/code/quarto-example/julia"

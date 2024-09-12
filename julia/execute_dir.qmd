@@ -1,7 +1,5 @@
 ---
-title: "Plots Demo"
-author: "Norah Jones"
-date: "5/22/2021"
+title: "Execution directory"
 format:
   commonmark: default
 engine: julia
